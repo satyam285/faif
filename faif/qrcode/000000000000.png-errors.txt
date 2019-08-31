@@ -1,0 +1,816 @@
+2019-08-31 16:39:28: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:40:46: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:40:51: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:41:32: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:41:52: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:42:12: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:42:42: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:42:57: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:43:25: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:43:54: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:44:12: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:45:02: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:45:18: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:45:36: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:46:17: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:46:29: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:46:49: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:47:11: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:47:22: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:47:54: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:48:37: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:48:54: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:49:20: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+2019-08-31 16:54:00: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_0\mask_25_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_2\mask_25_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_3\mask_25_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_5\mask_25_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_6\mask_25_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\faif\qrcode\cache\mask_7\mask_25_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\faif\qrcode\qrmask.php</b> on line <b>155</b><br />
