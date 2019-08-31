@@ -1,7 +1,7 @@
 A Complete Event Management WEB + MOBILE Application.
 
 1. Event Selection, Regisration, pdf and qr code generation from web application.
-2. Attendance Making using mobile application.
+2. Attendance Making using mobile application through qr code scanning.
 
 For Using :
 1. Copy "fiaf" folder in your server docs folder.
